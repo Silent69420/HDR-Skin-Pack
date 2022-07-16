@@ -1,0 +1,16 @@
+display_name = "HDR TE Skin Pack"
+authors = "Silent, Wish, Gryz, Kalomaze, Olyyy"
+version = "1.0.0"
+description = """
+Welcome to the Ultimate Skin Pack for Tournament play. 
+This skin pack was designed by a dedicated team committed 
+to bringing the best that the Smash Ultimate modding community 
+has to offer. With over 200 skins and counting, we've made sure 
+every mod implemented has been cautiously curated and added with 
+great purpose. This project would not be possible without the 
+amazing efforts of the Smash Ultimate modding community; for whom
+we have to thank majorly for their permission to use their costumes.
+
+We aim to bring you the definitive tournament experience in style!
+"""
+category = "Fighter"

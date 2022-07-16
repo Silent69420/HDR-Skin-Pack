@@ -1,0 +1,154 @@
+{
+  "new-dir-files": {
+    "fighter/cloud/c00": [
+      "fighter/cloud/model/body/c00/def_cloud_swordex_col.nutexb",
+      "fighter/cloud/model/body/c00/def_cloud_swordex_emi.nutexb",
+      "fighter/cloud/model/body/c00/def_cloud_swordex_nor.nutexb",
+      "fighter/cloud/model/body/c00/def_cloud_swordex_prm.nutexb"
+    ],
+    "fighter/cloud/c02": [
+      "fighter/cloud/model/body/c02/def_cloud_swordex_col.nutexb",
+      "fighter/cloud/model/body/c02/def_cloud_swordex_emi.nutexb",
+      "fighter/cloud/model/body/c02/def_cloud_swordex_nor.nutexb",
+      "fighter/cloud/model/body/c02/def_cloud_swordex_prm.nutexb"
+    ],
+    "fighter/cloud/c04": [
+      "fighter/cloud/model/body/c04/def_cloud_swordex_col.nutexb",
+      "fighter/cloud/model/body/c04/def_cloud_swordex_emi.nutexb",
+      "fighter/cloud/model/body/c04/def_cloud_swordex_nor.nutexb",
+      "fighter/cloud/model/body/c04/def_cloud_swordex_prm.nutexb"
+    ],
+    "fighter/cloud/c06": [
+      "fighter/cloud/model/body/c06/def_cloud_swordex_col.nutexb",
+      "fighter/cloud/model/body/c06/def_cloud_swordex_emi.nutexb",
+      "fighter/cloud/model/body/c06/def_cloud_swordex_nor.nutexb",
+      "fighter/cloud/model/body/c06/def_cloud_swordex_prm.nutexb"
+    ],
+    "fighter/cloud/c07": [
+      "fighter/cloud/model/body/c07/def_cloud_swordex_col.nutexb",
+      "fighter/cloud/model/body/c07/def_cloud_swordex_emi.nutexb",
+      "fighter/cloud/model/body/c07/def_cloud_swordex_nor.nutexb",
+      "fighter/cloud/model/body/c07/def_cloud_swordex_prm.nutexb"
+    ],
+    "fighter/pfushigisou/c07": [
+      "fighter/pfushigisou/model/body/c07/def_happi_001_col.nutexb",
+      "fighter/pfushigisou/model/body/c07/def_happi_001_nor.nutexb",
+      "fighter/pfushigisou/model/body/c07/def_happi_001_prm.nutexb"
+    ],
+    "fighter/plizardon/c07": [
+      "fighter/plizardon/model/body/c07/def_armor_001_col.nutexb",
+      "fighter/plizardon/model/body/c07/def_armor_001_emi.nutexb",
+      "fighter/plizardon/model/body/c07/def_armor_001_nor.nutexb",
+      "fighter/plizardon/model/body/c07/def_armor_001_prm.nutexb"
+    ],
+    "fighter/pzenigame/c07": [
+      "fighter/pzenigame/model/body/c07/def_ninja_001_col.nutexb",
+      "fighter/pzenigame/model/body/c07/def_ninja_001_nor.nutexb",
+      "fighter/pzenigame/model/body/c07/def_ninja_001_prm.nutexb"
+    ],
+    "fighter/master/c06": [
+      "fighter/master/model/body/c06/def_enlight_001_col.nutexb",
+      "fighter/master/model/body/c06/def_enlight_001_nor.nutexb",
+      "fighter/master/model/body/c06/def_enlight_001_prm.nutexb"
+    ],
+    "fighter/master/c07": [
+      "fighter/master/model/body/c07/def_enlight_female_001_col.nutexb",
+      "fighter/master/model/body/c07/def_enlight_female_001_nor.nutexb",
+      "fighter/master/model/body/c07/def_enlight_female_001_prm.nutexb"
+    ],
+    "fighter/samus/c00": [
+      "fighter/samus/model/body/c00/met_gun_002_col.nutexb",
+      "fighter/samus/model/body/c00/met_gun_002_nor.nutexb",
+      "fighter/samus/model/body/c00/met_gun_002_prm.nutexb",
+      "fighter/samus/model/gun/c00/met_gun_002_col.nutexb",
+      "fighter/samus/model/gun/c00/met_gun_002_nor.nutexb",
+      "fighter/samus/model/gun/c00/met_gun_002_prm.nutexb",
+      "fighter/samus/model/gun/c00/met_gun_emissive_002_emi.nutexb"
+    ],
+    "fighter/samus/c01": [
+      "fighter/samus/model/body/c01/met_gun_002_col.nutexb",
+      "fighter/samus/model/body/c01/met_gun_002_nor.nutexb",
+      "fighter/samus/model/body/c01/met_gun_002_prm.nutexb",
+      "fighter/samus/model/gun/c01/met_gun_002_col.nutexb",
+      "fighter/samus/model/gun/c01/met_gun_002_nor.nutexb",
+      "fighter/samus/model/gun/c01/met_gun_002_prm.nutexb",
+      "fighter/samus/model/gun/c01/met_gun_emissive_002_emi.nutexb"
+    ],
+    "fighter/samus/c02": [
+      "fighter/samus/model/body/c02/met_gun_002_col.nutexb",
+      "fighter/samus/model/body/c02/met_gun_002_nor.nutexb",
+      "fighter/samus/model/body/c02/met_gun_002_prm.nutexb",
+      "fighter/samus/model/gun/c02/met_gun_002_col.nutexb",
+      "fighter/samus/model/gun/c02/met_gun_002_nor.nutexb",
+      "fighter/samus/model/gun/c02/met_gun_002_prm.nutexb",
+      "fighter/samus/model/gun/c02/met_gun_emissive_002_emi.nutexb"
+    ],
+    "fighter/samus/c03": [
+      "fighter/samus/model/body/c03/met_gun_002_col.nutexb",
+      "fighter/samus/model/body/c03/met_gun_002_nor.nutexb",
+      "fighter/samus/model/body/c03/met_gun_002_prm.nutexb",
+      "fighter/samus/model/gun/c03/met_gun_002_col.nutexb",
+      "fighter/samus/model/gun/c03/met_gun_002_nor.nutexb",
+      "fighter/samus/model/gun/c03/met_gun_002_prm.nutexb",
+      "fighter/samus/model/gun/c03/met_gun_emissive_002_emi.nutexb"
+    ],
+    "fighter/samus/c04": [
+      "fighter/samus/model/body/c04/met_gun_002_col.nutexb",
+      "fighter/samus/model/body/c04/met_gun_002_nor.nutexb",
+      "fighter/samus/model/body/c04/met_gun_002_prm.nutexb",
+      "fighter/samus/model/gun/c04/met_gun_002_col.nutexb",
+      "fighter/samus/model/gun/c04/met_gun_002_nor.nutexb",
+      "fighter/samus/model/gun/c04/met_gun_002_prm.nutexb",
+      "fighter/samus/model/gun/c04/met_gun_emissive_002_emi.nutexb"
+    ],
+    "fighter/samus/c05": [
+      "fighter/samus/model/body/c05/met_gun_002_col.nutexb",
+      "fighter/samus/model/body/c05/met_gun_002_nor.nutexb",
+      "fighter/samus/model/body/c05/met_gun_002_prm.nutexb",
+      "fighter/samus/model/gun/c05/met_gun_002_col.nutexb",
+      "fighter/samus/model/gun/c05/met_gun_002_nor.nutexb",
+      "fighter/samus/model/gun/c05/met_gun_002_prm.nutexb",
+      "fighter/samus/model/gun/c05/met_gun_emissive_002_emi.nutexb"
+    ],
+    "fighter/samus/c06": [
+      "fighter/samus/model/body/c06/met_gun_002_col.nutexb",
+      "fighter/samus/model/body/c06/met_gun_002_nor.nutexb",
+      "fighter/samus/model/body/c06/met_gun_002_prm.nutexb",
+      "fighter/samus/model/gun/c06/met_gun_002_col.nutexb",
+      "fighter/samus/model/gun/c06/met_gun_002_nor.nutexb",
+      "fighter/samus/model/gun/c06/met_gun_002_prm.nutexb",
+      "fighter/samus/model/gun/c06/met_gun_emissive_002_emi.nutexb"
+    ],
+    "fighter/samus/c07": [
+      "fighter/samus/model/body/c07/met_gun_002_col.nutexb",
+      "fighter/samus/model/body/c07/met_gun_002_nor.nutexb",
+      "fighter/samus/model/body/c07/met_gun_002_prm.nutexb",
+      "fighter/samus/model/gun/c07/met_gun_002_col.nutexb",
+      "fighter/samus/model/gun/c07/met_gun_002_nor.nutexb",
+      "fighter/samus/model/gun/c07/met_gun_002_prm.nutexb",
+      "fighter/samus/model/gun/c07/met_gun_emissive_002_emi.nutexb"
+    ],
+    "fighter/szerosuit/c07": [
+      "fighter/szerosuit/model/body/c07/def_szerosuit_001_col.nutexb",
+      "fighter/szerosuit/model/body/c07/def_szerosuit_001_nor.nutexb",
+      "fighter/szerosuit/model/body/c07/def_szerosuit_001_prm.nutexb",
+      "fighter/szerosuit/model/gun/c07/def_szerosuit_001_emi.nutexb"
+    ],
+    "fighter/chrom/c04": [
+      "fighter/chrom/model/body/c04/alp_chrom_004_col.nutexb",
+      "fighter/chrom/model/body/c04/alp_chrom_004_nor.nutexb",
+      "fighter/chrom/model/body/c04/alp_chrom_004_prm.nutexb",
+      "fighter/chrom/model/body/c04/alp_chrom_005_col.nutexb",
+      "fighter/chrom/model/body/c04/alp_chrom_005_nor.nutexb",
+      "fighter/chrom/model/body/c04/alp_chrom_005_prm.nutexb",
+      "fighter/chrom/model/body/c04/alp_chrom_006_col.nutexb",
+      "fighter/chrom/model/body/c04/alp_chrom_007_col.nutexb",
+      "fighter/chrom/model/body/c04/alp_chrom_007_nor.nutexb"
+    ],
+    "fighter/snake/c06": [
+      "fighter/snake/model/body/c06/def_snake_001_col.nutexb",
+      "fighter/snake/model/body/c06/def_snake_001_nor.nutexb",
+      "fighter/snake/model/body/c06/def_snake_001_prm.nutexb"
+    ]
+  }
+}
